@@ -1,4 +1,4 @@
-import random
+import random #=- Kenneth Sethman -=#
 
 DiceNumber = int("0") #=- The number the dice rolls. -=#
 
